@@ -1,0 +1,4 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+p {border: 1px solid black}
+p.red {color: red;}
